@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "ctime": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "iomanip": "cpp",
+        "cctype": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "C:/msys64/mingw64/bin/g++.exe"
+}
